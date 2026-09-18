@@ -1,4 +1,4 @@
-# Primer commit con el codigo original de snake.py
+# Original de snake.py extraido de freegames
 
 # Se agregó que la comida se mueva sin salirse de la pantalla, aumentando la dificultad
 
